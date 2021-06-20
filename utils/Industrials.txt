@@ -1,0 +1,11 @@
+AAL - American Airlines Group, Inc.
+ADP - Automatic Data Processing, Inc.
+CTAS - Cintas Corporation
+CSX - CSX Corporation
+HON - Honeywell International Inc.
+JBHT - J.B. Hunt Transport Services, I
+JBLU - JetBlue Airways Corporation
+PCAR - PACCAR Inc.
+PAYX - Paychex, Inc.
+UAL - United Airlines Holdings, Inc.
+VRSK - Verisk Analytics, Inc.

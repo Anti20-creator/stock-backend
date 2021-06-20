@@ -1,0 +1,242 @@
+[
+ {
+  "symbol": "AVGO",
+  "points": 46
+ },
+ {
+  "symbol": "CSCO",
+  "points": 52
+ },
+ {
+  "symbol": "AAPL",
+  "points": 57
+ },
+ {
+  "symbol": "INTC",
+  "points": 57
+ },
+ {
+  "symbol": "AMAT",
+  "points": 58
+ },
+ {
+  "symbol": "CHKP",
+  "points": 66
+ },
+ {
+  "symbol": "ADI",
+  "points": 68
+ },
+ {
+  "symbol": "CTSH",
+  "points": 68
+ },
+ {
+  "symbol": "FISV",
+  "points": 73
+ },
+ {
+  "symbol": "AMD",
+  "points": 82
+ },
+ {
+  "symbol": "ADBE",
+  "points": 83
+ },
+ {
+  "symbol": "CTXS",
+  "points": 84
+ },
+ {
+  "symbol": "ASML",
+  "points": 85
+ },
+ {
+  "symbol": "AKAM",
+  "points": 86
+ },
+ {
+  "symbol": "QCOM",
+  "points": 86
+ },
+ {
+  "symbol": "NTAP",
+  "points": 92
+ },
+ {
+  "symbol": "ADSK",
+  "points": 93
+ },
+ {
+  "symbol": "LRCX",
+  "points": 94
+ },
+ {
+  "symbol": "MSFT",
+  "points": 97
+ },
+ {
+  "symbol": "FFIV",
+  "points": 98
+ },
+ {
+  "symbol": "MCHP",
+  "points": 99
+ },
+ {
+  "symbol": "HIMX",
+  "points": 101
+ },
+ {
+  "symbol": "SSNC",
+  "points": 102
+ },
+ {
+  "symbol": "CDNS",
+  "points": 106
+ },
+ {
+  "symbol": "STX",
+  "points": 108
+ },
+ {
+  "symbol": "ON",
+  "points": 112
+ },
+ {
+  "symbol": "TXN",
+  "points": 114
+ },
+ {
+  "symbol": "SWKS",
+  "points": 115
+ },
+ {
+  "symbol": "MU",
+  "points": 116
+ },
+ {
+  "symbol": "INTU",
+  "points": 117
+ },
+ {
+  "symbol": "NVDA",
+  "points": 121
+ },
+ {
+  "symbol": "MXIM",
+  "points": 122
+ },
+ {
+  "symbol": "APPS",
+  "points": 123
+ },
+ {
+  "symbol": "FSLR",
+  "points": 124
+ },
+ {
+  "symbol": "IRBT",
+  "points": 124
+ },
+ {
+  "symbol": "FTNT",
+  "points": 126
+ },
+ {
+  "symbol": "WDC",
+  "points": 127
+ },
+ {
+  "symbol": "CGNX",
+  "points": 128
+ },
+ {
+  "symbol": "UCTT",
+  "points": 128
+ },
+ {
+  "symbol": "SNPS",
+  "points": 129
+ },
+ {
+  "symbol": "JKHY",
+  "points": 136
+ },
+ {
+  "symbol": "XLNX",
+  "points": 141
+ },
+ {
+  "symbol": "VRSN",
+  "points": 149
+ },
+ {
+  "symbol": "QLYS",
+  "points": 156
+ },
+ {
+  "symbol": "SPWR",
+  "points": 168
+ },
+ {
+  "symbol": "STNE",
+  "points": 178
+ },
+ {
+  "symbol": "GRUB",
+  "points": 223
+ },
+ {
+  "symbol": "DBX",
+  "points": 231
+ },
+ {
+  "symbol": "GPRO",
+  "points": 237
+ },
+ {
+  "symbol": "DOCU",
+  "points": 257
+ },
+ {
+  "symbol": "CRWD",
+  "points": 260
+ },
+ {
+  "symbol": "FEYE",
+  "points": 270
+ },
+ {
+  "symbol": "WDAY",
+  "points": 279
+ },
+ {
+  "symbol": "PFPT",
+  "points": 292
+ },
+ {
+  "symbol": "LYFT",
+  "points": 297
+ },
+ {
+  "symbol": "ZS",
+  "points": 313
+ },
+ {
+  "symbol": "NTNX",
+  "points": 1233
+ },
+ {
+  "symbol": "OKTA",
+  "points": 1233
+ },
+ {
+  "symbol": "SPLK",
+  "points": 1237
+ },
+ {
+  "symbol": "RUN",
+  "points": 1250
+ }
+]

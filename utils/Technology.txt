@@ -1,0 +1,60 @@
+ADBE - Adobe Inc.
+AMD - Advanced Micro Devices, Inc.
+AKAM - Akamai Technologies, Inc.
+ADI - Analog Devices, Inc.
+AAPL - Apple Inc.
+AMAT - Applied Materials, Inc.
+ASML - ASML Holding N.V. - New York Re
+ADSK - Autodesk, Inc.
+AVGO - Broadcom Inc.
+CDNS - Cadence Design Systems, Inc.
+CHKP - Check Point Software Technologi
+CSCO - Cisco Systems, Inc.
+CTXS - Citrix Systems, Inc.
+CGNX - Cognex Corporation
+CTSH - Cognizant Technology Solutions 
+CRWD - CrowdStrike Holdings, Inc.
+APPS - Digital Turbine, Inc.
+DOCU - DocuSign, Inc.
+DBX - Dropbox, Inc.
+FFIV - F5 Networks, Inc.
+FEYE - FireEye, Inc.
+FSLR - First Solar, Inc.
+FISV - Fiserv, Inc.
+FTNT - Fortinet, Inc.
+GPRO - GoPro, Inc.
+GRUB - Just Eat Takeaway.com N.V.
+HIMX - Himax Technologies, Inc.
+INTC - Intel Corporation
+INTU - Intuit Inc.
+IRBT - iRobot Corporation
+JKHY - Jack Henry & Associates, Inc.
+LRCX - Lam Research Corporation
+LYFT - Lyft, Inc.
+MXIM - Maxim Integrated Products, Inc.
+MCHP - Microchip Technology Incorporat
+MU - Micron Technology, Inc.
+MSFT - Microsoft Corporation
+NTAP - NetApp, Inc.
+NTNX - Nutanix, Inc.
+NVDA - NVIDIA Corporation
+OKTA - Okta, Inc.
+ON - ON Semiconductor Corporation
+PFPT - Proofpoint, Inc.
+QCOM - QUALCOMM Incorporated
+QLYS - Qualys, Inc.
+STX - Seagate Technology Holdings PLC
+SWKS - Skyworks Solutions, Inc.
+SPLK - Splunk Inc.
+SSNC - SS&C Technologies Holdings, Inc
+STNE - StoneCo Ltd.
+SPWR - SunPower Corporation
+RUN - Sunrun Inc.
+SNPS - Synopsys, Inc.
+TXN - Texas Instruments Incorporated
+UCTT - Ultra Clean Holdings, Inc.
+VRSN - VeriSign, Inc.
+WDC - Western Digital Corporation
+WDAY - Workday, Inc.
+XLNX - Xilinx, Inc.
+ZS - Zscaler, Inc.

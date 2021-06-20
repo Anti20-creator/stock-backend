@@ -1,0 +1,23 @@
+AMZN - Amazon.com, Inc.
+BKNG - Booking Holdings Inc. Common St
+CZR - Caesars Entertainment, Inc.
+EBAY - eBay Inc.
+EXPE - Expedia Group, Inc.
+GT - The Goodyear Tire & Rubber Comp
+HAS - Hasbro, Inc.
+JD - JD.com, Inc.
+LULU - lululemon athletica inc.
+MAR - Marriott International
+MELI - MercadoLibre, Inc.
+ODP - The ODP Corporation
+ORLY - O'Reilly Automotive, Inc.
+OSTK - Overstock.com, Inc.
+QRTEA - Liberty Interactive Corporation
+REAL - The RealReal, Inc.
+ROST - Ross Stores, Inc.
+SBUX - Starbucks Corporation
+TSLA - Tesla, Inc.
+TCOM - Trip.com Group Limited
+TRIP - TripAdvisor, Inc.
+ULTA - Ulta Beauty, Inc.
+WYNN - Wynn Resorts, Limited

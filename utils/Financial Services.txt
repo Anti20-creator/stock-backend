@@ -1,0 +1,10 @@
+ARCC - Ares Capital Corporation - Clos
+CG - The Carlyle Group Inc.
+CME - CME Group Inc.
+MORN - Morningstar, Inc.
+NDAQ - Nasdaq, Inc.
+NTRS - Northern Trust Corporation
+PYPL - PayPal Holdings, Inc.
+SSSS - SuRo Capital Corp.
+TROW - T. Rowe Price Group, Inc.
+TW - Tradeweb Markets Inc.

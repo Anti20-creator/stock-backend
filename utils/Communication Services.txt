@@ -1,0 +1,26 @@
+FOXA - Fox Corporation
+ATVI - Activision Blizzard, Inc
+GOOGL - Alphabet Inc.
+GOOG - Alphabet Inc.
+ANGI - Angi Inc.
+BIDU - Baidu, Inc.
+CHTR - Charter Communications, Inc.
+CMCSA - Comcast Corporation
+DISCA - Discovery, Inc. - Series A
+DISH - DISH Network Corporation
+EA - Electronic Arts Inc.
+FB - Facebook, Inc.
+GRPN - Groupon, Inc.
+IQ - iQIYI, Inc.
+FWONK - Liberty Media Corporation - Ser
+MTCH - Match Group, Inc.
+NTES - NetEase, Inc.
+NFLX - Netflix, Inc.
+ROKU - Roku, Inc.
+SIRI - Sirius XM Holdings Inc.
+TTWO - Take-Two Interactive Software, 
+TMUS - T-Mobile US, Inc.
+VG - Vonage Holdings Corp.
+WB - Weibo Corporation
+ZM - Zoom Video Communications, Inc.
+ZNGA - Zynga Inc.

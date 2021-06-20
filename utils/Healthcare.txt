@@ -1,0 +1,20 @@
+ALXN - Alexion Pharmaceuticals, Inc.
+ALGN - Align Technology, Inc.
+AMGN - Amgen Inc.
+BIIB - Biogen Inc.
+BMRN - BioMarin Pharmaceutical Inc.
+CERN - Cerner Corporation
+GILD - Gilead Sciences, Inc.
+HSIC - Henry Schein, Inc.
+HCM - HUTCHMED (China) Limited
+IDXX - IDEXX Laboratories, Inc.
+ILMN - Illumina, Inc.
+IMGN - ImmunoGen, Inc.
+INCY - Incyte Corporation
+ISRG - Intuitive Surgical, Inc.
+NBIX - Neurocrine Biosciences, Inc.
+NVCR - NovoCure Limited
+OPK - Opko Health, Inc.
+REGN - Regeneron Pharmaceuticals, Inc.
+VRTX - Vertex Pharmaceuticals Incorpor
+WBA - Walgreens Boots Alliance, Inc.
