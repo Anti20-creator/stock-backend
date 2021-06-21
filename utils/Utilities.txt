@@ -1,3 +1,34 @@
-AEP - American Electric Power Company
-EXC - Exelon Corporation
-XEL - Xcel Energy Inc.
+AEP - American Electric Power
+AY - Atlantica Sustainable Infrastructure
+BIPC - Brookfield Infrastructure Corp
+BIP - Brookfield Infrastructure Partners
+BEPC - Brookfield Renewable Corporation
+BEP - Brookfield Renewable Partners
+CNP - CenterPoint Energy
+CLNE - Clean Energy Fuels
+CWEN - Clearway Energy
+SBS - Companhia de Saneamento Basico
+CIG - Companhia Energética de Minas Gerais
+ED - Consolidated Edison
+D - Dominion Energy
+DTE - DTE Energy Co
+DUK - Duke Energy
+EIX - Edison International
+ENIA - Enersis Americas S.A. American
+ETR - Entergy Corp
+EXC - Exelon
+FE - FirstEnergy
+MAXN - Maxeon Solar Technologies
+NEE - NextEra Energy
+NRG - NRG Energy
+ORA - Ormat Technologies
+PAM - Pampa Energia SA
+PCG - PG&E Corporation
+PPL - PPL Corporation
+PEG - Public Service Enterprise Group
+SRE - Sempra Energy
+SO - Southern Company
+RUN - Sunrun
+AES - The AES Corporation
+VST - Vistra Energy
+XEL - Xcel Energy

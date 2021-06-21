@@ -1,0 +1,66 @@
+[
+ {
+  "symbol": "FDX",
+  "points": 28
+ },
+ {
+  "symbol": "KNX",
+  "points": 31
+ },
+ {
+  "symbol": "CSX",
+  "points": 34
+ },
+ {
+  "symbol": "UPS",
+  "points": 40
+ },
+ {
+  "symbol": "NSC",
+  "points": 43
+ },
+ {
+  "symbol": "JBHT",
+  "points": 44
+ },
+ {
+  "symbol": "UNP",
+  "points": 44
+ },
+ {
+  "symbol": "ZTO",
+  "points": 56
+ },
+ {
+  "symbol": "JBLU",
+  "points": 166
+ },
+ {
+  "symbol": "DAL",
+  "points": 167
+ },
+ {
+  "symbol": "SAVE",
+  "points": 174
+ },
+ {
+  "symbol": "ZNH",
+  "points": 175
+ },
+ {
+  "symbol": "LUV",
+  "points": 176
+ },
+ {
+  "symbol": "UAL",
+  "points": 186
+ },
+ {
+  "symbol": "GOL",
+  "points": 275
+ },
+ {
+  "symbol": "AAL",
+  "points": 1166
+ }
+]

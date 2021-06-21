@@ -1,0 +1,25 @@
+AMRC - Ameresco
+AM - Antero Midstream Partners LP
+BKR - Baker Hughes
+LNG - Cheniere Energy
+CVA - Covanta Holding Corp
+ET - Energy Transfer Equity
+ENLC - EnLink Midstream LLC
+EPD - Enterprise Products Partners
+ETRN - Equitrans Midstream
+FLR - Fluor Corporation
+HAL - Halliburton
+KMI - Kinder Morgan
+MPLX - MPLX LP
+NOV - National Oilwell Varco
+OKE - Oneok
+PTEN - Patterson-UTI Energy
+PAA - Plains All American Pipeline
+PWR - Quanta Services
+RSG - Republic Services
+RES - RPC
+SLB - Schlumberger
+FTI - TechnipFMC plc
+WCN - Waste Connections
+WM - Waste Management
+WMB - Williams Companies

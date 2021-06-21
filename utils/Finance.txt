@@ -1,0 +1,194 @@
+ACEV - ACE Convergence Acquisition Corp
+AFL - Aflac
+AGNC - AGNC Investment
+AIG - AIG
+AL - Air Lease Corporation
+AJAX - Ajax I
+ALL - Allstate
+ALLY - Ally Financial
+AXP - American Express
+AMH - American Homes 4 Rent
+AMT - American Tower
+COLD - Americold Realty Trust
+NLY - Annaly Capital Management
+APXT - Apex Technology Acquisition Corp
+ARI - Apollo Commercial Real Estate Finance
+APSG - Apollo Strategic Growth Capital
+ARCC - Ares Capital
+ARR - ARMOUR Residential
+AACQ - Artius Acquisition Inc
+ACIC - Atlas Crest Investment Corp
+AVB - AvalonBay Communities
+EQH - AXA Equitable Holdings
+BBD - Banco Bradesco S.A. – Preferred Shares
+BMA - Banco Macro
+BSBR - Banco Santander (Brasil)
+BAC - Bank of America
+BCS - Barclays PLC
+BBAR - BBVA Banco Francés
+BRK.B - Berkshire Hathaway
+BLK - BlackRock
+BX - Blackstone
+BK - BNY Mellon
+BRX - Brixmor Property Group
+BAM - Brookfield Asset Management Inc.
+BTWN - BTWN
+BTAQ - Burgundy Technology Acquisition Corp
+CANO - Cano Health
+COF - Capital One
+CG - Carlyle Group
+CBOE - CBOE Holdings
+CBRE - CBRE Group
+PRPB - CC Neuberger Principal Holdings II
+SCHW - Charles Schwab
+CIM - Chimera Investment
+CCIV - Churchill Capital Corp IV
+C - Citigroup
+CFG - Citizens Financial Group
+CMLF - CM Life Sciences Inc
+CME - CME Group (Class A)
+CRHC - Cohn Robbins Holdings Corp
+CLNY - Colony Capital
+CMA - Comerica
+CONX - Conx Corp
+BAP - Credicorp
+CCI - Crown Castle
+DCRB - Decarbonization Plus Acquisition Corp
+DB - Deutsche Bank AG
+DLR - Digital Realty Trust
+DFS - Discover Financial Services
+DHC - Diversified Healthcare Trust
+XPOA - DPCM Capital Inc.
+DGNR - Dragoneer Growth Opportunities Corp.
+DRE - Duke Realty
+ETAC - E.Merge Technology Acquisition Corp
+EQIX - Equinix
+EQD - Equity Distribution Acquisition Corp
+EQR - Equity Residential
+EVR - Evercore
+FGNA - FG New America Acquisition Corp
+FITB - Fifth Third Bancorp
+FHN - First Horizon National Corporation
+FMAC - FirstMark Horizon Acquisition Corp
+WPF - Foley Trasimene Acquisition Corp.
+FAII - Fortress Value Acquisition Corp II
+FIII - Forum Merger III Corp
+BEN - Franklin Resources
+FSK - FS KKR Capital
+FTOC - FTAC Olympus Acquisition Corp
+GNW - Genworth Financial
+GNL - Global Net Lease
+GS - Goldman Sachs
+GGAL - Grupo Financiero Galicia
+BSMX - Grupo Financiero Santander Mexico
+SUPV - Grupo Supervielle
+GSAH - GS Acquisition Holdings Corp II
+HIG - Hartford Financial Services Group
+HDB - HDFC Bank.
+HAAC - Health Assurance Acquisition Corp
+HGV - Hilton Grand Vacations
+HST - Host Hotels & Resorts
+HSBC - HSBC
+HEC - Hudson Executive Investment Ord Shs Class A
+HBAN - Huntington Bancshares Incorporated
+IBN - ICICI Bank
+INDI - indie Semiconductor
+IIPR - Innovative Industrial Properties
+IBKR - Interactive Brokers
+ICE - Intercontinental Exchange
+IVZ - Invesco
+IVR - Invesco Mortgage Capital
+ISBC - Investors Bancorp
+INVH - Invitation Homes
+IRM - Iron Mountain
+ITUB - Itaú Unibanco
+JBI - Janus International Group
+JEF - Jefferies Financial Group
+JPM - JPMorgan
+KPLT - Katapult Holdings
+KEY - KeyCorp.
+KIM - Kimco Realty Corporation
+KKR - KKR & Co
+LMND - Lemonade
+LX - LexinFintech Holdings
+LTC - LTC Properties
+MKL - Markel Corp.
+MQ - Marqeta
+MMC - Marsh & McLennan
+MA - Mastercard
+MPW - Medical Properties Trust
+MET - Metlife
+MFA - MFA Financial
+MTG - MGIC Investment
+MFG - Mizuho Financial Group
+MS - Morgan Stanley
+MORN - Morningstar
+MUFG - MUFJ Financial Group
+NDAQ - Nasdaq OMX Group
+NAVI - Navient Corporation
+NRZ - New Residential Investment
+NYCB - New York Community Bancorp
+NYMT - New York Mortgage Trust
+NOAH - Noah Holdings Limited
+NMR - Nomura
+NTRS - Northern Trust Corporation
+PBCT - People’s United Financial
+PSTH - Pershing Square Tontine Holdings
+PNC - PNC Financial
+PRI - Primerica
+PGR - Progressive
+PLD - Prologis
+PTRA - Proterra
+PRU - Prudential Financial
+PSA - Public Storage
+RLGY - Realogy Holdings
+O - Realty Income
+RDFN - Redfin Corporation
+RF - Regions Financial
+RTP - Reinvent Technology Partners
+RKT - Rocket Companies
+ROOT - Root Inc
+RY - Royal Bank of Canada
+SPG - Simon Property
+SLM - SLM Corporation
+IPOD - Social Capital Hedosophia Holdings Corp VI
+IPOF - Social Capital Hedosophia Holdings Corp VI
+SOFI - SoFi Technologies
+SRAC - Stable Road Acquisition Corp Class A
+SVAC - Starboard Value Acquisition Corp
+STT - State Street
+SMFG - Sumitomo Mitsui Financial Group
+SSSS - Sutter Rock Capital
+SYF - Synchrony Financial
+TROW - T. Rowe Price
+SKT - Tanger Factory Outlet Centers
+GEO - The GEO Group
+BARK - The Original BARK Company
+TBA - Thoma Bravo Advantage
+THBR - Thunder Bridge Acquisition II Ltd
+TD - Toronto-Dominion Bank
+TPGY - TPG Pace Beneficial Finance Corp.
+PACE - Tpg Pace Tech Opportunities Corp
+TRV - Travelers
+TFC - Truist Financial Corp
+TWCT - TWC Tech Holdings II Corp
+TWO - Two Harbors Investment
+UBS - UBS Group AG
+UNIT - Uniti Group
+UNM - Unum Group
+TIGR - UP Fintech
+USB - US Bancorp
+VACQ - Vector Acquisition Corp.
+VTR - Ventas
+VER - Vereit
+VRSK - Verisk Analytics
+VGAC - VG Acquisition Corp
+VICI - VICI Properties
+V - Visa
+VIH - VPC Impact Acquisition Holdings
+WFC - Wells Fargo
+WELL - Welltower
+WU - Western Union
+WY - Weyerhaeuser Co.
+WTM - White Mountains Insurance Group
+ZION - Zions Bancorporation

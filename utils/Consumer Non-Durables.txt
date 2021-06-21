@@ -1,0 +1,39 @@
+MO - Altria
+ABEV - Ambev
+BUD - Anheuser Busch Inbev NV
+BYND - Beyond Meat
+BRFS - BRF
+KO - Coca-Cola
+CL - Colgate-Palmolive
+CAG - ConAgra Foods
+STZ - Constellation Brands
+COTY - Coty
+CROX - Crocs
+DEO - Diageo
+EL - Estee Lauder
+GIS - General Mills
+GES - Guess
+HBI - Hanesbrands
+HRL - Hormel Foods Corporation
+K - Kellogg�s
+KDP - Keurig Dr Pepper
+KMB - Kimberly-Clark
+KHC - Kraft Heinz
+LEVI - Levi Strauss & Co
+MDLZ - Mondelez
+MNST - Monster
+NTCO - Natura Holding S.A.
+NBEV - New Age Beverage
+NKE - Nike
+OTLY - Oatly
+PG - P&G
+PEP - PepsiCo
+PM - Philip Morris
+SEB - Seaboard Corp.
+SKX - Skechers
+CLX - The Clorox Company
+TSN - Tyson Foods
+UAA - Under Armour
+UA - Under Armour (Class C)
+VGR - Vector Group
+VFC - VF Corporation

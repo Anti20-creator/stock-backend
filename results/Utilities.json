@@ -1,14 +1,138 @@
 [
  {
-  "symbol": "EXC",
-  "points": 19
+  "symbol": "AY",
+  "points": 27
+ },
+ {
+  "symbol": "CIG",
+  "points": 27
+ },
+ {
+  "symbol": "BIP",
+  "points": 29
  },
  {
   "symbol": "AEP",
-  "points": 21
+  "points": 48
+ },
+ {
+  "symbol": "BIPC",
+  "points": null
+ },
+ {
+  "symbol": "BEPC",
+  "points": null
+ },
+ {
+  "symbol": "ENIA",
+  "points": 41
+ },
+ {
+  "symbol": "CNP",
+  "points": 59
+ },
+ {
+  "symbol": "CWEN",
+  "points": 61
+ },
+ {
+  "symbol": "EIX",
+  "points": 68
+ },
+ {
+  "symbol": "ED",
+  "points": 71
+ },
+ {
+  "symbol": "DTE",
+  "points": 71
+ },
+ {
+  "symbol": "ETR",
+  "points": 72
+ },
+ {
+  "symbol": "NRG",
+  "points": 72
+ },
+ {
+  "symbol": "DUK",
+  "points": 73
+ },
+ {
+  "symbol": "SBS",
+  "points": 75
+ },
+ {
+  "symbol": "D",
+  "points": 78
+ },
+ {
+  "symbol": "ORA",
+  "points": 88
+ },
+ {
+  "symbol": "PEG",
+  "points": 91
+ },
+ {
+  "symbol": "SO",
+  "points": 100
+ },
+ {
+  "symbol": "SRE",
+  "points": 102
+ },
+ {
+  "symbol": "NEE",
+  "points": 105
  },
  {
   "symbol": "XEL",
-  "points": 24
+  "points": 110
+ },
+ {
+  "symbol": "FE",
+  "points": 157
+ },
+ {
+  "symbol": "BEP",
+  "points": 159
+ },
+ {
+  "symbol": "EXC",
+  "points": 159
+ },
+ {
+  "symbol": "PCG",
+  "points": 216
+ },
+ {
+  "symbol": "CLNE",
+  "points": 274
+ },
+ {
+  "symbol": "MAXN",
+  "points": null
+ },
+ {
+  "symbol": "AES",
+  "points": 161
+ },
+ {
+  "symbol": "PAM",
+  "points": 183
+ },
+ {
+  "symbol": "PPL",
+  "points": 291
+ },
+ {
+  "symbol": "VST",
+  "points": 317
+ },
+ {
+  "symbol": "RUN",
+  "points": 1293
  }
 ]

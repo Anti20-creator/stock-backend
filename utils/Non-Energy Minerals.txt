@@ -1,0 +1,34 @@
+AA - Alcoa
+AU - AngloGold Ashanti
+ARNC - Arconic
+BTG - B2Gold Corporation
+GOLD - Barrick Gold
+BHP - BHP Billiton
+CX - CEMEX, S.A.B. de C.V.
+CLF - Cleveland-Cliffs Inc.
+CDE - Coeur Mining
+SID - Companhia Siderurgica Nacional
+EGO - Eldorado Gold Corporation
+AG - First Majestic Silver Corp
+FCX - Freeport
+GGB - Gerdau S.A.
+GFI - Gold Fields
+HMY - Harmony Gold Mining Company Limited
+HL - Hecla Mining Co.
+HWM - Howmet Aerospace
+IAG - Iamgold Corp
+KGC - Kinross Gold Corporation
+LOMA - Loma Negra Compania Industrial Argentina SA
+MUX - McEwen Mining Inc
+NEM - Newmont Mining
+NUE - Nucor
+PAAS - Pan American Silver Corp
+RIO - Rio Tinto
+SBSW - Sibanye-Stillwater
+SCCO - Southern Copper
+STLD - Steel Dynamics
+TECK - Teck Resources
+X - United States Steel
+SLCA - US Silica Holdings
+VALE - Vale
+AUY - Yamana Gold

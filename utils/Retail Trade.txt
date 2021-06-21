@@ -1,0 +1,59 @@
+ANF - Abercrombie & Fitch
+AAP - Advance Auto Parts
+BABA - Alibaba
+AMZN - Amazon
+AEO - American Eagle Outfitters
+HOME - At Home Group
+AZO - AutoZone
+BZUN - Baozun Inc
+BBY - Best Buy
+BJ - BJ’s Wholesale Club Holdings
+CVNA - Carvana Co.
+CHPT - ChargePoint Holdings
+CHWY - Chewy
+CHS - Chico’s FAS
+COST - Costco Wholesale
+CPNG - Coupang
+CVS - CVS Health
+DG - Dollar General
+DLTR - Dollar Tree
+FL - Foot Locker
+GME - GameStop
+GPS - GAP
+GO - Grocery Outlet Holding
+GRUB - GrubHub
+HD - Home Depot
+JD - JD.com
+KSS - Kohl’s
+KR - Kroger Co
+LB - L Brands
+LESL - Leslies Inc
+LOW - Lowe’s
+LULU - Lululemon
+M - Macy’s
+JWN - Nordstrom
+ORLY - O’Reilly Auto Parts
+ODP - Office Depot
+OSTK - Overstock.com
+OZON - Ozon
+PDD - Pinduoduo Inc
+QRTEA - Qurate Retail
+RL - Ralph Lauren
+REAL - RealReal
+RH - Restoration Hardware Holdings
+RAD - Rite Aid
+ROST - Ross Stores
+SBH - Sally Beauty
+SHOP - Shopify
+SFM - Sprouts Farmers Market
+SFIX - Stitch Fix
+TPR - Tapestry
+TGT - Target
+TJX - TJX Companies Inc
+ULTA - Ulta Beauty
+URBN - Urban Outfitters
+VIPS - Vipshop Holdings Limited
+VRM - Vroom Inc
+WBA - Walgreens Boots
+WMT - Walmart
+W - Wayfair

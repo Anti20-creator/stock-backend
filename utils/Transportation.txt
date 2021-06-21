@@ -1,0 +1,16 @@
+AAL - American Airlines
+ZNH - China Southern Airlines
+CSX - CSX
+DAL - Delta Air Lines
+FDX - FedEx
+GOL - Gol Intelligent Airlines
+JBHT - J.B. Hunt
+JBLU - JetBlue Airways
+KNX - Knight-Swift Transportation Holdings
+NSC - Norfolk Southern Corporation
+LUV - Southwest Airlines
+SAVE - Spirit Airlines
+UNP - Union Pacific
+UAL - United Airlines
+UPS - UPS
+ZTO - ZTO Express

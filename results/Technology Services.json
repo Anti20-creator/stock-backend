@@ -1,0 +1,542 @@
+[
+ {
+  "symbol": "ACN",
+  "points": 30
+ },
+ {
+  "symbol": "ADBE",
+  "points": 37
+ },
+ {
+  "symbol": "ANSS",
+  "points": 61
+ },
+ {
+  "symbol": "AKAM",
+  "points": 93
+ },
+ {
+  "symbol": "CHKP",
+  "points": 122
+ },
+ {
+  "symbol": "CDNS",
+  "points": 126
+ },
+ {
+  "symbol": "GOOGL",
+  "points": 130
+ },
+ {
+  "symbol": "GOOG",
+  "points": 134
+ },
+ {
+  "symbol": "CTXS",
+  "points": 140
+ },
+ {
+  "symbol": "MDRX",
+  "points": 324
+ },
+ {
+  "symbol": "TWOU",
+  "points": 1465
+ },
+ {
+  "symbol": "AFRM",
+  "points": null
+ },
+ {
+  "symbol": "ABNB",
+  "points": null
+ },
+ {
+  "symbol": "ADP",
+  "points": 35
+ },
+ {
+  "symbol": "ADSK",
+  "points": 44
+ },
+ {
+  "symbol": "BIDU",
+  "points": 52
+ },
+ {
+  "symbol": "ATHM",
+  "points": 132
+ },
+ {
+  "symbol": "CERN",
+  "points": 145
+ },
+ {
+  "symbol": "CSCO",
+  "points": 181
+ },
+ {
+  "symbol": "AVLR",
+  "points": 227
+ },
+ {
+  "symbol": "AYX",
+  "points": 255
+ },
+ {
+  "symbol": "BOX",
+  "points": 306
+ },
+ {
+  "symbol": "BB",
+  "points": 313
+ },
+ {
+  "symbol": "CARS",
+  "points": 317
+ },
+ {
+  "symbol": "CLDR",
+  "points": 323
+ },
+ {
+  "symbol": "TEAM",
+  "points": 396
+ },
+ {
+  "symbol": "APPN",
+  "points": 1229
+ },
+ {
+  "symbol": "AI",
+  "points": 1243
+ },
+ {
+  "symbol": "ANGI",
+  "points": 1255
+ },
+ {
+  "symbol": "PLAN",
+  "points": 1328
+ },
+ {
+  "symbol": "APP",
+  "points": null
+ },
+ {
+  "symbol": "ASAN",
+  "points": null
+ },
+ {
+  "symbol": "BILI",
+  "points": 1321
+ },
+ {
+  "symbol": "BMBL",
+  "points": null
+ },
+ {
+  "symbol": "CTSH",
+  "points": 164
+ },
+ {
+  "symbol": "NET",
+  "points": 1292
+ },
+ {
+  "symbol": "COIN",
+  "points": null
+ },
+ {
+  "symbol": "COMP",
+  "points": null
+ },
+ {
+  "symbol": "FB",
+  "points": 112
+ },
+ {
+  "symbol": "CSGP",
+  "points": 126
+ },
+ {
+  "symbol": "COUR",
+  "points": null
+ },
+ {
+  "symbol": "APPS",
+  "points": 126
+ },
+ {
+  "symbol": "FDS",
+  "points": 139
+ },
+ {
+  "symbol": "EPAM",
+  "points": 141
+ },
+ {
+  "symbol": "INTU",
+  "points": 158
+ },
+ {
+  "symbol": "FISV",
+  "points": 164
+ },
+ {
+  "symbol": "IBM",
+  "points": 187
+ },
+ {
+  "symbol": "JKHY",
+  "points": 195
+ },
+ {
+  "symbol": "CRWD",
+  "points": 242
+ },
+ {
+  "symbol": "HUYA",
+  "points": 251
+ },
+ {
+  "symbol": "DOCU",
+  "points": 259
+ },
+ {
+  "symbol": "HUBS",
+  "points": 315
+ },
+ {
+  "symbol": "DDOG",
+  "points": 1254
+ },
+ {
+  "symbol": "MSP",
+  "points": null
+ },
+ {
+  "symbol": "DASH",
+  "points": null
+ },
+ {
+  "symbol": "DKNG",
+  "points": null
+ },
+ {
+  "symbol": "INFY",
+  "points": 263
+ },
+ {
+  "symbol": "FIS",
+  "points": 284
+ },
+ {
+  "symbol": "DBX",
+  "points": 328
+ },
+ {
+  "symbol": "GDDY",
+  "points": 335
+ },
+ {
+  "symbol": "FEYE",
+  "points": 360
+ },
+ {
+  "symbol": "DXC",
+  "points": 429
+ },
+ {
+  "symbol": "FVRR",
+  "points": 1244
+ },
+ {
+  "symbol": "GDS",
+  "points": 1366
+ },
+ {
+  "symbol": "FSLY",
+  "points": 1397
+ },
+ {
+  "symbol": "EB",
+  "points": 1420
+ },
+ {
+  "symbol": "IQ",
+  "points": 1428
+ },
+ {
+  "symbol": "FROG",
+  "points": null
+ },
+ {
+  "symbol": "CRM",
+  "points": 94
+ },
+ {
+  "symbol": "MSFT",
+  "points": 169
+ },
+ {
+  "symbol": "NOW",
+  "points": 197
+ },
+ {
+  "symbol": "NICE",
+  "points": 201
+ },
+ {
+  "symbol": "LDOS",
+  "points": 203
+ },
+ {
+  "symbol": "PYPL",
+  "points": 213
+ },
+ {
+  "symbol": "NTES",
+  "points": 231
+ },
+ {
+  "symbol": "JNPR",
+  "points": 251
+ },
+ {
+  "symbol": "PAYX",
+  "points": 254
+ },
+ {
+  "symbol": "ORCL",
+  "points": 260
+ },
+ {
+  "symbol": "QLYS",
+  "points": 268
+ },
+ {
+  "symbol": "MOMO",
+  "points": 279
+ },
+ {
+  "symbol": "MTCH",
+  "points": 319
+ },
+ {
+  "symbol": "MELI",
+  "points": 339
+ },
+ {
+  "symbol": "LYFT",
+  "points": 375
+ },
+ {
+  "symbol": "PFPT",
+  "points": 376
+ },
+ {
+  "symbol": "QTWO",
+  "points": 398
+ },
+ {
+  "symbol": "MDB",
+  "points": 1261
+ },
+ {
+  "symbol": "JMIA",
+  "points": 1324
+ },
+ {
+  "symbol": "MCFE",
+  "points": null
+ },
+ {
+  "symbol": "NLOK",
+  "points": null
+ },
+ {
+  "symbol": "RNG",
+  "points": 379
+ },
+ {
+  "symbol": "PINS",
+  "points": 401
+ },
+ {
+  "symbol": "QD",
+  "points": 426
+ },
+ {
+  "symbol": "OKTA",
+  "points": 1263
+ },
+ {
+  "symbol": "SMAR",
+  "points": 1328
+ },
+ {
+  "symbol": "NTNX",
+  "points": 1333
+ },
+ {
+  "symbol": "PD",
+  "points": 1439
+ },
+ {
+  "symbol": "PLTR",
+  "points": null
+ },
+ {
+  "symbol": "RXT",
+  "points": null
+ },
+ {
+  "symbol": "RBLX",
+  "points": null
+ },
+ {
+  "symbol": "SE",
+  "points": 1276
+ },
+ {
+  "symbol": "SKIL",
+  "points": null
+ },
+ {
+  "symbol": "SNPS",
+  "points": 245
+ },
+ {
+  "symbol": "VMW",
+  "points": 273
+ },
+ {
+  "symbol": "SQ",
+  "points": 278
+ },
+ {
+  "symbol": "VRSN",
+  "points": 290
+ },
+ {
+  "symbol": "VEEV",
+  "points": 292
+ },
+ {
+  "symbol": "ZM",
+  "points": 303
+ },
+ {
+  "symbol": "SSNC",
+  "points": 310
+ },
+ {
+  "symbol": "TW",
+  "points": 318
+ },
+ {
+  "symbol": "STNE",
+  "points": 321
+ },
+ {
+  "symbol": "TME",
+  "points": 352
+ },
+ {
+  "symbol": "WB",
+  "points": 356
+ },
+ {
+  "symbol": "YY",
+  "points": 389
+ },
+ {
+  "symbol": "WIT",
+  "points": 398
+ },
+ {
+  "symbol": "Z",
+  "points": 414
+ },
+ {
+  "symbol": "WDAY",
+  "points": 415
+ },
+ {
+  "symbol": "WEX",
+  "points": 431
+ },
+ {
+  "symbol": "SNAP",
+  "points": 445
+ },
+ {
+  "symbol": "ZEN",
+  "points": 448
+ },
+ {
+  "symbol": "ZS",
+  "points": 452
+ },
+ {
+  "symbol": "TWTR",
+  "points": 476
+ },
+ {
+  "symbol": "SOGO",
+  "points": 487
+ },
+ {
+  "symbol": "TWLO",
+  "points": 511
+ },
+ {
+  "symbol": "ZNGA",
+  "points": 538
+ },
+ {
+  "symbol": "SNOW",
+  "points": 1285
+ },
+ {
+  "symbol": "SPLK",
+  "points": 1302
+ },
+ {
+  "symbol": "WIX",
+  "points": 1313
+ },
+ {
+  "symbol": "WORK",
+  "points": 1376
+ },
+ {
+  "symbol": "SPOT",
+  "points": 1378
+ },
+ {
+  "symbol": "SQSP",
+  "points": null
+ },
+ {
+  "symbol": "SUMO",
+  "points": null
+ },
+ {
+  "symbol": "UBER",
+  "points": 1457
+ },
+ {
+  "symbol": "PATH",
+  "points": null
+ },
+ {
+  "symbol": "U",
+  "points": null
+ },
+ {
+  "symbol": "ZIP",
+  "points": null
+ }
+]

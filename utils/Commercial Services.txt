@@ -1,0 +1,15 @@
+BAH - Booz Allen Hamilton
+CHGG - Chegg
+CNDT - Conduent
+EFX - Equifax
+ETSY - Etsy
+FLT - FleetCor Technologies
+IT - Gartner
+GRPN - Groupon
+IPG - Interpublic Group of Companies
+KAR - KAR Auction Services
+MGI - MoneyGram
+MCO - Moody�s
+OMC - Omnicom Group
+SPGI - S&P
+TTD - Trade Desk

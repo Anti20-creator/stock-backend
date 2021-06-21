@@ -1,0 +1,14 @@
+AGL - Agilon Health
+ANTM - Anthem
+CNC - Centene
+CI - Cigna
+CYH - Community Health Systems
+DVA - DaVita HealthCare Partners
+XGN - Exagen
+FVE - Five Star Senior Living Inc
+HCA - HCA Healthcare
+HUM - Humana
+NVTA - Invitae Corporation
+OSCR - Oscar Health Inc.
+TDOC - Teladoc
+UNH - UnitedHealth

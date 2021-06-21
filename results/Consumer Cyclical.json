@@ -1,23 +1,23 @@
 [
  {
-  "symbol": "JD",
+  "symbol": "EBAY",
   "points": 34
  },
  {
-  "symbol": "EBAY",
-  "points": 36
+  "symbol": "HAS",
+  "points": 35
+ },
+ {
+  "symbol": "JD",
+  "points": 35
  },
  {
   "symbol": "AMZN",
   "points": 37
  },
  {
-  "symbol": "HAS",
-  "points": 37
- },
- {
   "symbol": "BKNG",
-  "points": 43
+  "points": 41
  },
  {
   "symbol": "ORLY",
@@ -25,23 +25,19 @@
  },
  {
   "symbol": "ROST",
-  "points": 50
+  "points": 48
  },
  {
-  "symbol": "QRTEA",
-  "points": 51
+  "symbol": "SBUX",
+  "points": 54
  },
  {
   "symbol": "LULU",
   "points": 55
  },
  {
-  "symbol": "SBUX",
-  "points": 56
- },
- {
   "symbol": "OSTK",
-  "points": 62
+  "points": 60
  },
  {
   "symbol": "TSLA",
@@ -49,11 +45,15 @@
  },
  {
   "symbol": "ULTA",
-  "points": 71
+  "points": 69
+ },
+ {
+  "symbol": "QRTEA",
+  "points": 148
  },
  {
   "symbol": "ODP",
-  "points": 174
+  "points": 172
  },
  {
   "symbol": "GT",
@@ -61,15 +61,7 @@
  },
  {
   "symbol": "MAR",
-  "points": 182
- },
- {
-  "symbol": "CZR",
-  "points": 183
- },
- {
-  "symbol": "EXPE",
-  "points": 183
+  "points": 179
  },
  {
   "symbol": "MELI",
@@ -80,12 +72,20 @@
   "points": 212
  },
  {
+  "symbol": "CZR",
+  "points": 280
+ },
+ {
+  "symbol": "EXPE",
+  "points": 280
+ },
+ {
   "symbol": "WYNN",
-  "points": 212
+  "points": 309
  },
  {
   "symbol": "REAL",
-  "points": 1188
+  "points": 1285
  },
  {
   "symbol": "TCOM",

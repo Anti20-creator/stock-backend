@@ -1,0 +1,74 @@
+ABT - Abbott Labs
+ABBV - AbbVie
+A - Agilent Technologies
+ALXN - Alexion Pharmaceuticals
+ALGN - Align Technology
+AMGN - Amgen
+FOLD - Amicus Therapeutics
+AMRX - Amneal Pharmaceuticals
+ARCT - Arcturus Therapeutics Holdings Inc
+AZN - AstraZeneca PLC
+BHC - Bausch Health Companies
+BAX - Baxter
+BDX - Becton Dickinson
+BIO - Bio-Rad Laboratories
+BIIB - Biogen
+BMRN - Biomarin Pharmaceutical
+BNTX - BioNTech SE
+BSX - Boston Scientific
+BMY - Bristol-Myers Squibb
+CLVS - Clovis Oncology
+CRSP - CRISPR Therapeutics AG
+DHR - Danaher
+DXCM - DexCom Inc
+EW - Edwards Lifesciences
+LLY - Eli Lilly
+EXAS - Exact Sciences Corporation
+EXEL - Exelixis
+FREQ - Frequency Therapeutics
+GILD - Gilead Sciences
+GSK - GlaxoSmithKline plc
+GMED - Globus Medical Inc
+GWPH - GW Pharmaceuticals plc
+HOLX - Hologic
+HCM - Hutchison China
+IDXX - IDEXX Laboratories
+IGMS - IGM Biosciences
+ILMN - Illumina
+IMGN - ImmunoGen
+INCY - Incyte
+INO - Inovio Pharmaceuticals In
+ICPT - Intercept Pharmaceuticals
+ISRG - Intuitive Surgical
+JNJ - J&J
+JAZZ - Jazz Pharmaceuticals
+LXRX - Lexicon Pharmaceuticals
+MDT - Medtronic
+MRK - Merck
+MTD - Mettler-Toledo International
+MRNA - Moderna
+NKTR - Nektar Therapeutics
+NBIX - Neurocrine Biosciences
+NVS - Novartis AG
+NVAX - Novavax
+NVO - Novo Nordisk
+NVCR - NovoCure
+NUVA - NuVasive
+OPK - Opko Health
+OGN - Organon & Co.
+PFE - Pfizer
+PBH - Prestige Brands
+REGN - Regeneron Pharmaceuticals
+RMD - ResMed
+SGMO - Sangamo Therapeutics
+SNY - Sanofi
+SYK - Stryker
+TAK - Takeda Pharmaceutical
+TFX - Teleflex
+TEVA - Teva Pharmaceutical Industries
+TMO - Thermo Fisher Scientific
+VRTX - Vertex Pharmaceuticals
+VTRS - Viatris
+VIR - Vir Biotechnology Inc
+ZBH - Zimmer Biomet
+ZTS - Zoetis

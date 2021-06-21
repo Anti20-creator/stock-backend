@@ -1,0 +1,32 @@
+APD - Air Products and Chemicals
+ALB - Albemarle Corporation
+ATR - AptarGroup
+ADM - Archer-Daniels-Midland
+AXTA - Axalta Coating Systems
+BLL - Ball Corporation
+BG - Bunge
+CGC - Canopy Growth Corporation
+CF - CF Industries Holdings
+SQM - Chemical & Mining Co. of Chile
+CC - Chemours Company, The
+CTVA - Corteva
+DQ - Daqo New Energy Corp
+DAR - Darling Ingredients
+DD - DuPont
+ECL - Ecolab
+ELAN - Elanco Animal Health
+ESI - Element Solutions
+FF - FutureFuel
+GPK - Graphic Packaging Holding
+GPRE - Green Plains
+HUN - Huntsman Corporation
+IP - International Paper Company
+LTHM - Livent
+MOS - Mosaic Company, The
+OLN - Olin
+PPG - PPG Industries
+REGI - Renewable Energy Group
+SHW - Sherwin-Williams
+DOW - The Dow Chemical Company
+SMG - The Scotts Miracle-Gro Company
+WRK - WestRock

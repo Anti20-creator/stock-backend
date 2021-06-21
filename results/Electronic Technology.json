@@ -1,0 +1,266 @@
+[
+ {
+  "symbol": "CAJ",
+  "points": 49
+ },
+ {
+  "symbol": "AVGO",
+  "points": 52
+ },
+ {
+  "symbol": "DELL",
+  "points": 52
+ },
+ {
+  "symbol": "AAPL",
+  "points": 55
+ },
+ {
+  "symbol": "LPL",
+  "points": 56
+ },
+ {
+  "symbol": "HPQ",
+  "points": 59
+ },
+ {
+  "symbol": "HPE",
+  "points": 62
+ },
+ {
+  "symbol": "ADI",
+  "points": 64
+ },
+ {
+  "symbol": "INTC",
+  "points": 67
+ },
+ {
+  "symbol": "GD",
+  "points": 70
+ },
+ {
+  "symbol": "LMT",
+  "points": 74
+ },
+ {
+  "symbol": "GLW",
+  "points": 84
+ },
+ {
+  "symbol": "AMD",
+  "points": 86
+ },
+ {
+  "symbol": "APH",
+  "points": 89
+ },
+ {
+  "symbol": "NOC",
+  "points": 89
+ },
+ {
+  "symbol": "FTV",
+  "points": 92
+ },
+ {
+  "symbol": "CIEN",
+  "points": 93
+ },
+ {
+  "symbol": "QCOM",
+  "points": 96
+ },
+ {
+  "symbol": "HIMX",
+  "points": 97
+ },
+ {
+  "symbol": "LRCX",
+  "points": 97
+ },
+ {
+  "symbol": "MCHP",
+  "points": 99
+ },
+ {
+  "symbol": "FFIV",
+  "points": 101
+ },
+ {
+  "symbol": "ANET",
+  "points": 104
+ },
+ {
+  "symbol": "FLEX",
+  "points": 104
+ },
+ {
+  "symbol": "NTAP",
+  "points": 108
+ },
+ {
+  "symbol": "KEYS",
+  "points": 110
+ },
+ {
+  "symbol": "LOGI",
+  "points": 111
+ },
+ {
+  "symbol": "MSI",
+  "points": 112
+ },
+ {
+  "symbol": "CGNX",
+  "points": 121
+ },
+ {
+  "symbol": "ON",
+  "points": 121
+ },
+ {
+  "symbol": "MU",
+  "points": 125
+ },
+ {
+  "symbol": "FTNT",
+  "points": 126
+ },
+ {
+  "symbol": "NVDA",
+  "points": 127
+ },
+ {
+  "symbol": "ENPH",
+  "points": 131
+ },
+ {
+  "symbol": "MXIM",
+  "points": 134
+ },
+ {
+  "symbol": "UMC",
+  "points": 134
+ },
+ {
+  "symbol": "HEI",
+  "points": 140
+ },
+ {
+  "symbol": "TSM",
+  "points": 143
+ },
+ {
+  "symbol": "LSCC",
+  "points": 155
+ },
+ {
+  "symbol": "KTOS",
+  "points": 156
+ },
+ {
+  "symbol": "TXN",
+  "points": 157
+ },
+ {
+  "symbol": "SWKS",
+  "points": 164
+ },
+ {
+  "symbol": "STX",
+  "points": 166
+ },
+ {
+  "symbol": "ZBRA",
+  "points": 176
+ },
+ {
+  "symbol": "XLNX",
+  "points": 180
+ },
+ {
+  "symbol": "TER",
+  "points": 181
+ },
+ {
+  "symbol": "WDC",
+  "points": 181
+ },
+ {
+  "symbol": "UCTT",
+  "points": 182
+ },
+ {
+  "symbol": "COMM",
+  "points": 209
+ },
+ {
+  "symbol": "FSLR",
+  "points": 222
+ },
+ {
+  "symbol": "GE",
+  "points": 239
+ },
+ {
+  "symbol": "MRVL",
+  "points": 256
+ },
+ {
+  "symbol": "AXON",
+  "points": 263
+ },
+ {
+  "symbol": "XRX",
+  "points": 264
+ },
+ {
+  "symbol": "INFN",
+  "points": 267
+ },
+ {
+  "symbol": "PANW",
+  "points": 269
+ },
+ {
+  "symbol": "PSTG",
+  "points": 288
+ },
+ {
+  "symbol": "BA",
+  "points": 367
+ },
+ {
+  "symbol": "ERJ",
+  "points": 371
+ },
+ {
+  "symbol": "NPTN",
+  "points": 384
+ },
+ {
+  "symbol": "PLUG",
+  "points": 1262
+ },
+ {
+  "symbol": "ALLT",
+  "points": 1306
+ },
+ {
+  "symbol": "RTX",
+  "points": null
+ },
+ {
+  "symbol": "TGI",
+  "points": 424
+ },
+ {
+  "symbol": "FCEL",
+  "points": 1321
+ },
+ {
+  "symbol": "SPCE",
+  "points": null
+ }
+]

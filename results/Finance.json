@@ -1,0 +1,766 @@
+[
+ {
+  "symbol": "ACEV",
+  "points": null
+ },
+ {
+  "symbol": "AMT",
+  "points": 47
+ },
+ {
+  "symbol": "ALL",
+  "points": 61
+ },
+ {
+  "symbol": "AVB",
+  "points": 67
+ },
+ {
+  "symbol": "BLK",
+  "points": 79
+ },
+ {
+  "symbol": "AXP",
+  "points": 84
+ },
+ {
+  "symbol": "AL",
+  "points": 88
+ },
+ {
+  "symbol": "AFL",
+  "points": 89
+ },
+ {
+  "symbol": "ALLY",
+  "points": 90
+ },
+ {
+  "symbol": "AMH",
+  "points": 117
+ },
+ {
+  "symbol": "BAM",
+  "points": 119
+ },
+ {
+  "symbol": "C",
+  "points": 125
+ },
+ {
+  "symbol": "BAC",
+  "points": 127
+ },
+ {
+  "symbol": "CBRE",
+  "points": 128
+ },
+ {
+  "symbol": "CBOE",
+  "points": 129
+ },
+ {
+  "symbol": "BX",
+  "points": 131
+ },
+ {
+  "symbol": "COF",
+  "points": 136
+ },
+ {
+  "symbol": "BK",
+  "points": 141
+ },
+ {
+  "symbol": "ARI",
+  "points": 161
+ },
+ {
+  "symbol": "BMA",
+  "points": 171
+ },
+ {
+  "symbol": "CG",
+  "points": 177
+ },
+ {
+  "symbol": "AIG",
+  "points": 210
+ },
+ {
+  "symbol": "AGNC",
+  "points": 226
+ },
+ {
+  "symbol": "AJAX",
+  "points": null
+ },
+ {
+  "symbol": "BCS",
+  "points": 233
+ },
+ {
+  "symbol": "BSBR",
+  "points": 238
+ },
+ {
+  "symbol": "ARCC",
+  "points": 249
+ },
+ {
+  "symbol": "BBD",
+  "points": 251
+ },
+ {
+  "symbol": "CFG",
+  "points": 263
+ },
+ {
+  "symbol": "ARR",
+  "points": 265
+ },
+ {
+  "symbol": "BRX",
+  "points": 267
+ },
+ {
+  "symbol": "CIM",
+  "points": 314
+ },
+ {
+  "symbol": "COLD",
+  "points": 318
+ },
+ {
+  "symbol": "SCHW",
+  "points": 367
+ },
+ {
+  "symbol": "NLY",
+  "points": 523
+ },
+ {
+  "symbol": "APXT",
+  "points": null
+ },
+ {
+  "symbol": "APSG",
+  "points": null
+ },
+ {
+  "symbol": "ACIC",
+  "points": null
+ },
+ {
+  "symbol": "EQH",
+  "points": 351
+ },
+ {
+  "symbol": "BBAR",
+  "points": null
+ },
+ {
+  "symbol": "BTWN",
+  "points": null
+ },
+ {
+  "symbol": "BTAQ",
+  "points": null
+ },
+ {
+  "symbol": "CANO",
+  "points": null
+ },
+ {
+  "symbol": "PRPB",
+  "points": null
+ },
+ {
+  "symbol": "CCIV",
+  "points": null
+ },
+ {
+  "symbol": "CMLF",
+  "points": null
+ },
+ {
+  "symbol": "CME",
+  "points": 121
+ },
+ {
+  "symbol": "CRHC",
+  "points": null
+ },
+ {
+  "symbol": "CCI",
+  "points": 116
+ },
+ {
+  "symbol": "EQIX",
+  "points": 150
+ },
+ {
+  "symbol": "DLR",
+  "points": 157
+ },
+ {
+  "symbol": "DFS",
+  "points": 160
+ },
+ {
+  "symbol": "BAP",
+  "points": 170
+ },
+ {
+  "symbol": "EQR",
+  "points": 188
+ },
+ {
+  "symbol": "DRE",
+  "points": 202
+ },
+ {
+  "symbol": "DB",
+  "points": 243
+ },
+ {
+  "symbol": "FHN",
+  "points": 256
+ },
+ {
+  "symbol": "CMA",
+  "points": 257
+ },
+ {
+  "symbol": "FITB",
+  "points": 326
+ },
+ {
+  "symbol": "CLNY",
+  "points": 1365
+ },
+ {
+  "symbol": "CONX",
+  "points": null
+ },
+ {
+  "symbol": "DCRB",
+  "points": null
+ },
+ {
+  "symbol": "DHC",
+  "points": null
+ },
+ {
+  "symbol": "XPOA",
+  "points": null
+ },
+ {
+  "symbol": "DGNR",
+  "points": null
+ },
+ {
+  "symbol": "ETAC",
+  "points": null
+ },
+ {
+  "symbol": "EQD",
+  "points": null
+ },
+ {
+  "symbol": "BEN",
+  "points": 152
+ },
+ {
+  "symbol": "EVR",
+  "points": 266
+ },
+ {
+  "symbol": "FGNA",
+  "points": null
+ },
+ {
+  "symbol": "FMAC",
+  "points": null
+ },
+ {
+  "symbol": "WPF",
+  "points": null
+ },
+ {
+  "symbol": "FAII",
+  "points": null
+ },
+ {
+  "symbol": "FIII",
+  "points": null
+ },
+ {
+  "symbol": "IIPR",
+  "points": 210
+ },
+ {
+  "symbol": "HDB",
+  "points": 214
+ },
+ {
+  "symbol": "ICE",
+  "points": 223
+ },
+ {
+  "symbol": "HIG",
+  "points": 236
+ },
+ {
+  "symbol": "IBKR",
+  "points": 240
+ },
+ {
+  "symbol": "FSK",
+  "points": 353
+ },
+ {
+  "symbol": "FTOC",
+  "points": null
+ },
+ {
+  "symbol": "GS",
+  "points": 175
+ },
+ {
+  "symbol": "BSMX",
+  "points": 242
+ },
+ {
+  "symbol": "HSBC",
+  "points": 270
+ },
+ {
+  "symbol": "IBN",
+  "points": 289
+ },
+ {
+  "symbol": "GNW",
+  "points": 348
+ },
+ {
+  "symbol": "HBAN",
+  "points": 392
+ },
+ {
+  "symbol": "GNL",
+  "points": 395
+ },
+ {
+  "symbol": "HGV",
+  "points": 399
+ },
+ {
+  "symbol": "GGAL",
+  "points": 429
+ },
+ {
+  "symbol": "GSAH",
+  "points": 453
+ },
+ {
+  "symbol": "HST",
+  "points": 531
+ },
+ {
+  "symbol": "SUPV",
+  "points": 618
+ },
+ {
+  "symbol": "HAAC",
+  "points": null
+ },
+ {
+  "symbol": "HEC",
+  "points": null
+ },
+ {
+  "symbol": "INDI",
+  "points": null
+ },
+ {
+  "symbol": "MKL",
+  "points": 227
+ },
+ {
+  "symbol": "JPM",
+  "points": 250
+ },
+ {
+  "symbol": "MA",
+  "points": 255
+ },
+ {
+  "symbol": "MORN",
+  "points": 266
+ },
+ {
+  "symbol": "MMC",
+  "points": 278
+ },
+ {
+  "symbol": "INVH",
+  "points": 279
+ },
+ {
+  "symbol": "KKR",
+  "points": 279
+ },
+ {
+  "symbol": "MET",
+  "points": 288
+ },
+ {
+  "symbol": "NDAQ",
+  "points": 289
+ },
+ {
+  "symbol": "IRM",
+  "points": 295
+ },
+ {
+  "symbol": "IVZ",
+  "points": 297
+ },
+ {
+  "symbol": "JEF",
+  "points": 298
+ },
+ {
+  "symbol": "PRI",
+  "points": 302
+ },
+ {
+  "symbol": "MS",
+  "points": 306
+ },
+ {
+  "symbol": "PSA",
+  "points": 310
+ },
+ {
+  "symbol": "NTRS",
+  "points": 314
+ },
+ {
+  "symbol": "KEY",
+  "points": 321
+ },
+ {
+  "symbol": "LTC",
+  "points": 326
+ },
+ {
+  "symbol": "ISBC",
+  "points": 327
+ },
+ {
+  "symbol": "KIM",
+  "points": 327
+ },
+ {
+  "symbol": "PRU",
+  "points": 328
+ },
+ {
+  "symbol": "O",
+  "points": 332
+ },
+ {
+  "symbol": "PBCT",
+  "points": 388
+ },
+ {
+  "symbol": "ITUB",
+  "points": 389
+ },
+ {
+  "symbol": "IVR",
+  "points": 529
+ },
+ {
+  "symbol": "JBI",
+  "points": null
+ },
+ {
+  "symbol": "KPLT",
+  "points": null
+ },
+ {
+  "symbol": "LMND",
+  "points": null
+ },
+ {
+  "symbol": "LX",
+  "points": 356
+ },
+ {
+  "symbol": "MQ",
+  "points": null
+ },
+ {
+  "symbol": "NAVI",
+  "points": 363
+ },
+ {
+  "symbol": "MTG",
+  "points": 372
+ },
+ {
+  "symbol": "PNC",
+  "points": 399
+ },
+ {
+  "symbol": "RLGY",
+  "points": 413
+ },
+ {
+  "symbol": "PLD",
+  "points": 417
+ },
+ {
+  "symbol": "PGR",
+  "points": 418
+ },
+ {
+  "symbol": "MFG",
+  "points": 427
+ },
+ {
+  "symbol": "MPW",
+  "points": 435
+ },
+ {
+  "symbol": "MUFG",
+  "points": 438
+ },
+ {
+  "symbol": "NMR",
+  "points": 445
+ },
+ {
+  "symbol": "NYMT",
+  "points": 450
+ },
+ {
+  "symbol": "NOAH",
+  "points": 458
+ },
+ {
+  "symbol": "NYCB",
+  "points": 493
+ },
+ {
+  "symbol": "NRZ",
+  "points": 496
+ },
+ {
+  "symbol": "RF",
+  "points": 500
+ },
+ {
+  "symbol": "MFA",
+  "points": 514
+ },
+ {
+  "symbol": "PSTH",
+  "points": null
+ },
+ {
+  "symbol": "PTRA",
+  "points": null
+ },
+ {
+  "symbol": "RTP",
+  "points": null
+ },
+ {
+  "symbol": "RKT",
+  "points": null
+ },
+ {
+  "symbol": "ROOT",
+  "points": null
+ },
+ {
+  "symbol": "BARK",
+  "points": 330
+ },
+ {
+  "symbol": "GEO",
+  "points": 333
+ },
+ {
+  "symbol": "SPG",
+  "points": 362
+ },
+ {
+  "symbol": "RY",
+  "points": 364
+ },
+ {
+  "symbol": "TROW",
+  "points": 369
+ },
+ {
+  "symbol": "WTM",
+  "points": 370
+ },
+ {
+  "symbol": "TRV",
+  "points": 374
+ },
+ {
+  "symbol": "STT",
+  "points": 375
+ },
+ {
+  "symbol": "TD",
+  "points": 404
+ },
+ {
+  "symbol": "SYF",
+  "points": 409
+ },
+ {
+  "symbol": "SLM",
+  "points": 419
+ },
+ {
+  "symbol": "IPOD",
+  "points": null
+ },
+ {
+  "symbol": "IPOF",
+  "points": null
+ },
+ {
+  "symbol": "SOFI",
+  "points": null
+ },
+ {
+  "symbol": "SRAC",
+  "points": null
+ },
+ {
+  "symbol": "SVAC",
+  "points": null
+ },
+ {
+  "symbol": "V",
+  "points": 378
+ },
+ {
+  "symbol": "VRSK",
+  "points": 402
+ },
+ {
+  "symbol": "USB",
+  "points": 423
+ },
+ {
+  "symbol": "VER",
+  "points": 442
+ },
+ {
+  "symbol": "UNM",
+  "points": 445
+ },
+ {
+  "symbol": "TIGR",
+  "points": 446
+ },
+ {
+  "symbol": "SSSS",
+  "points": 451
+ },
+ {
+  "symbol": "UBS",
+  "points": 476
+ },
+ {
+  "symbol": "SMFG",
+  "points": 496
+ },
+ {
+  "symbol": "PACE",
+  "points": 565
+ },
+ {
+  "symbol": "SKT",
+  "points": 566
+ },
+ {
+  "symbol": "TBA",
+  "points": null
+ },
+ {
+  "symbol": "TPGY",
+  "points": null
+ },
+ {
+  "symbol": "TFC",
+  "points": null
+ },
+ {
+  "symbol": "TWCT",
+  "points": null
+ },
+ {
+  "symbol": "WELL",
+  "points": 432
+ },
+ {
+  "symbol": "WFC",
+  "points": 453
+ },
+ {
+  "symbol": "VICI",
+  "points": 459
+ },
+ {
+  "symbol": "WY",
+  "points": 470
+ },
+ {
+  "symbol": "WU",
+  "points": 483
+ },
+ {
+  "symbol": "ZION",
+  "points": 557
+ },
+ {
+  "symbol": "VTR",
+  "points": 574
+ },
+ {
+  "symbol": "UNIT",
+  "points": 631
+ },
+ {
+  "symbol": "TWO",
+  "points": 633
+ },
+ {
+  "symbol": "RDFN",
+  "points": 1443
+ },
+ {
+  "symbol": "VACQ",
+  "points": null
+ },
+ {
+  "symbol": "VGAC",
+  "points": null
+ },
+ {
+  "symbol": "VIH",
+  "points": null
+ }
+]

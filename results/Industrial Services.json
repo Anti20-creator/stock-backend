@@ -1,0 +1,102 @@
+[
+ {
+  "symbol": "EPD",
+  "points": 38
+ },
+ {
+  "symbol": "MPLX",
+  "points": 40
+ },
+ {
+  "symbol": "AMRC",
+  "points": 42
+ },
+ {
+  "symbol": "KMI",
+  "points": 43
+ },
+ {
+  "symbol": "PWR",
+  "points": 63
+ },
+ {
+  "symbol": "WMB",
+  "points": 65
+ },
+ {
+  "symbol": "WM",
+  "points": 66
+ },
+ {
+  "symbol": "FTI",
+  "points": 73
+ },
+ {
+  "symbol": "AM",
+  "points": 131
+ },
+ {
+  "symbol": "BKR",
+  "points": null
+ },
+ {
+  "symbol": "CVA",
+  "points": 66
+ },
+ {
+  "symbol": "RSG",
+  "points": 66
+ },
+ {
+  "symbol": "OKE",
+  "points": 69
+ },
+ {
+  "symbol": "WCN",
+  "points": 74
+ },
+ {
+  "symbol": "ET",
+  "points": 128
+ },
+ {
+  "symbol": "ETRN",
+  "points": 144
+ },
+ {
+  "symbol": "PAA",
+  "points": 145
+ },
+ {
+  "symbol": "HAL",
+  "points": 174
+ },
+ {
+  "symbol": "SLB",
+  "points": 185
+ },
+ {
+  "symbol": "LNG",
+  "points": 188
+ },
+ {
+  "symbol": "FLR",
+  "points": 286
+ },
+ {
+  "symbol": "ENLC",
+  "points": 287
+ },
+ {
+  "symbol": "NOV",
+  "points": 292
+ },
+ {
+  "symbol": "RES",
+  "points": 304
+ },
+ {
+  "symbol": "PTEN",
+  "points": 1172
+ }
+]

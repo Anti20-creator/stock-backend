@@ -1,0 +1,9 @@
+T - AT&T
+KT - KT
+LUMN - Lumen Technologies
+MBT - Mobile TeleSystems PJSC
+TMUS - T-Mobile
+VIV - Telefonica Brasil
+TIMB - TIM SA
+VZ - Verizon
+VG - Vonage Holdings

@@ -1,0 +1,39 @@
+AR - Antero Resources Corporation
+APA - Apache
+BP - BP plc
+COG - Cabot Oil & Gas Corporation
+CVE - Cenovus Energy Inc
+CVX - Chevron
+XEC - Cimarex Energy
+CNX - CNX Resources
+COP - ConocoPhillips
+CLR - Continental Resources
+DVN - Devon Energy
+DOFSQ - DIAMOND OFFSHORE
+FANG - Diamondback Energy Inc
+OVV - Encana Corporation
+EOG - EOG Resources
+EQT - EQT Corporation
+EQNR - Equinor
+XOM - Exxon Mobil
+GPORQ - Gulfport Energy
+HES - Hess Corporation
+HFC - HollyFrontier
+MRO - Marathon Oil Corporation
+MPC - Marathon Petroleum
+MTDR - Matador Resources
+MUR - Murphy Oil Corporation
+OXY - Occidental
+PBF - PBF Energy
+PDCE - PDC Energy Inc
+PBR - Petroleo Brasileiro S.A.
+PSX - Phillips 66
+PXD - Pioneer Natural Resources
+RRC - Range Resources Corporation
+RDS.A - Royal Dutch Shell � Class A Shares
+SM - SM Energy Company
+SWN - Southwestern Energy
+SU - Suncor Energy
+TRGP - Targa Resources
+VLO - Valero
+YPF - YPF

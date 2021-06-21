@@ -1,0 +1,66 @@
+AMD - Advanced Micro Devices
+ALLT - Allot Communications
+APH - Amphenol
+ADI - Analog Devices
+AAPL - Apple
+ANET - Arista Networks
+AXON - Axon Enterprise Inc
+BA - Boeing
+AVGO - Broadcom
+CAJ - Canon
+CIEN - Ciena Corporation
+CGNX - Cognex Corporation
+COMM - CommScope Holding Company
+GLW - Corning
+DELL - Dell Technologies
+ERJ - Embraer
+ENPH - Enphase Energy Inc
+FFIV - F5 Networks
+FSLR - First Solar
+FLEX - Flextronics International
+FTNT - Fortinet
+FTV - Fortive
+FCEL - FuelCell Energy
+GD - General Dynamics
+GE - General Electric
+HEI - Heico
+HPE - Hewlett Packard
+HIMX - Himax Technologies
+HPQ - HP
+INFN - Infinera Corporation
+INTC - Intel
+KEYS - Keysight Technologies
+KTOS - Kratos
+LRCX - Lam Research
+LSCC - Lattice Semiconductor Corp
+LPL - LG Display
+LMT - Lockheed Martin
+LOGI - Logitech International SA
+MRVL - Marvell Technology
+MXIM - Maxim Integrated
+MCHP - Microchip Technology
+MU - Micron Technology
+MSI - Motorola Solutions
+NPTN - NeoPhotonics
+NTAP - NetApp
+NOC - Northrop Grumman
+NVDA - Nvidia
+ON - ON Semiconductor
+PANW - Palo Alto Networks
+PLUG - Plug Power
+PSTG - Pure Storage
+QCOM - Qualcomm
+RTX - Raytheon Technologies Corporation
+STX - Seagate Technology
+SWKS - Skyworks Solutions
+TSM - Taiwan Semiconductor
+TER - Teradyne
+TXN - Texas Instruments
+TGI - Triumph
+UCTT - Ultra Clean Holdings
+UMC - United Microelectronics
+SPCE - Virgin Galactic
+WDC - Western Digital
+XRX - Xerox
+XLNX - Xilinx
+ZBRA - Zebra Technologies

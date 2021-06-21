@@ -1,0 +1,33 @@
+MMM - 3M
+AXL - American Axle & Manufacturing
+AME - Ametek
+AOS - AO Smith
+AMAT - Applied Materials
+ASML - ASML Holding
+BLDP - Ballard Power Systems
+BDC - Belden
+BWA - BorgWarner
+CSIQ - Canadian Solar
+CARR - Carrier Global Corp
+CAT - Caterpillar
+DAN - Dana Holding
+EMR - Emerson
+GNTX - Gentex
+HON - Honeywell
+ITW - Illinois Tool Works
+JKS - Jinkosolar Holding
+DE - John Deere
+LI - Li Auto Inc.
+MAS - Masco Corporation
+NWL - Newell Rubbermaid
+OTIS - Otis Worldwide Corp
+PCAR - Paccar
+PH - Parker-Hannifin
+PBI - Pitney Bowes
+ROK - Rockwell Automation
+SEDG - SolarEdge Technologies
+SPWR - SunPower
+TPIC - TPI Composites
+WAB - WABTEC Corporation
+WKHS - Workhorse Group Inc
+YETI - YETI Holdings Inc

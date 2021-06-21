@@ -11,6 +11,9 @@ class Data {
     }
 
     push(symbol, summary, stat, fin) {
+        if(summary == undefined || stat == undefined || fin == undefined) {
+            return
+        }
         this.stored.push({
             symbol: symbol,
             PE: summary.trailingPE,
@@ -24,7 +27,9 @@ class Data {
             price: fin.currentPrice,
             targetMPrice: fin.targetMeanPrice,
             FCF: fin.freeCashflow,
-            CPS: fin.totalCashPerShare
+            CPS: fin.totalCashPerShare,
+            recommendation: fin.recommendationKey,
+            analystsCount: fin.numberOfAnalystOpinions
         })
         this.scores.push({
             symbol: symbol,
@@ -96,9 +101,12 @@ class Data {
                         break;
 
                     case 'PEG':
-                        if(this.stored[i]['PEG'] < 1.3 && this.scores[i]['PEG'] > 0) {
+                        console.log(this.stored[i]['PEG'])
+                        const PEG = parseFloat(this.stored[i]['PEG'])
+                        if(PEG < 1.3 && PEG > 0) {
                             this.scores[idx]['points'] += 1
-                        }else if(this.scores[i]['PEG'] < 0){
+                        }else if(PEG < 0){
+                            console.log('MINUS', this.stored[i]["symbol"])
                             this.scores[idx]['points'] += 100
                         }else{
                             this.scores[idx]['points'] += 3

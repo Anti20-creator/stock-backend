@@ -1,0 +1,60 @@
+FOXA - 21st Century Fox
+ATUS - Altice USA
+AMC - AMC
+ARMK - Aramark
+BKNG - Booking
+CABO - Cable One
+CZR - Caesars Entertainment Inc.
+CCL - Carnival
+CHTR - Charter Communications
+CMG - Chipotle Mexican Grill
+CTAS - Cintas
+CMCSA - Comcast
+DRI - Darden Restaurants
+DIN - Dine Brands Global Inc
+DISCA - Discovery Communications
+DISCK - Discovery Communications
+DISH - DISH Network
+DPZ - Domino’s Pizza
+EBAY - eBay
+EXPE - Expedia
+STAY - Extended Stay America
+TV - Grupo Televisa, S.A.B.
+HRB - H&R Block
+HLT - Hilton
+HTHT - Huazhu Group
+H - Hyatt Hotels
+IHG - Intercontinental Hotels Group
+IGT - International Game Technology
+LVS - Las Vegas Sands
+FWONK - Liberty Media Group
+LYV - Live Nation Entertainment
+MSGS - Madison Square Garden Sports Corp
+MAR - Marriott
+MCD - McDonald’s
+MLCO - Melco Crown Entertainment Limited
+MGM - MGM Resorts
+NFLX - Netflix
+EDU - New Oriental Education & Tech Group
+NYT - New York Times
+NWSA - News Corporation
+NCLH - Norwegian Cruise Line Holdings
+PTON - Peloton Interactive
+PENN - Penn National Gaming Inc
+PLNT - Planet Fitness
+QSR - Restaurant Brands International
+RCL - Royal Caribbean Cruises
+SHAK - Shake Shack
+SIRI - Sirius XM
+SBUX - Starbucks
+TAL - Tal Education Group
+TCOM - Trip.com
+TRIP - TripAdvisor
+VIACA - ViacomCBS
+DIS - Walt Disney
+WEN - Wendy’s Company
+WING - Wingstop
+WWE - World Wrestling Entertainment
+WYNN - Wynn Resorts
+YUM - Yum!
+YUMC - Yum!

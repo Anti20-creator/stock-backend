@@ -1,11 +1,11 @@
 [
  {
-  "symbol": "GILD",
-  "points": 28
+  "symbol": "AMGN",
+  "points": 29
  },
  {
-  "symbol": "AMGN",
-  "points": 31
+  "symbol": "GILD",
+  "points": 29
  },
  {
   "symbol": "ALXN",
@@ -13,22 +13,22 @@
  },
  {
   "symbol": "BIIB",
-  "points": 37
- },
- {
-  "symbol": "CERN",
-  "points": 44
+  "points": 36
  },
  {
   "symbol": "REGN",
-  "points": 45
+  "points": 42
  },
  {
-  "symbol": "HSIC",
-  "points": 46
+  "symbol": "CERN",
+  "points": 43
  },
  {
   "symbol": "VRTX",
+  "points": 46
+ },
+ {
+  "symbol": "HSIC",
   "points": 47
  },
  {
@@ -37,7 +37,7 @@
  },
  {
   "symbol": "BMRN",
-  "points": 51
+  "points": 52
  },
  {
   "symbol": "IDXX",
@@ -48,12 +48,16 @@
   "points": 58
  },
  {
+  "symbol": "INCY",
+  "points": 59
+ },
+ {
   "symbol": "ISRG",
   "points": 61
  },
  {
   "symbol": "NBIX",
-  "points": 61
+  "points": 63
  },
  {
   "symbol": "OPK",
@@ -61,22 +65,18 @@
  },
  {
   "symbol": "NVCR",
-  "points": 73
+  "points": 74
  },
  {
   "symbol": "WBA",
   "points": 189
  },
  {
-  "symbol": "INCY",
-  "points": 191
- },
- {
   "symbol": "HCM",
-  "points": 1175
+  "points": 1176
  },
  {
   "symbol": "IMGN",
-  "points": 1177
+  "points": 1178
  }
 ]

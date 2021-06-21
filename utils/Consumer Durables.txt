@@ -1,0 +1,32 @@
+ATVI - Activision Blizzard
+ARVL - Arrival Group
+GOEV - Canoo
+DHI - DR Horton
+EA - Electronic Arts
+RACE - Ferrari
+F - Ford
+GM - General Motors
+GT - Goodyear
+GPRO - GoPro
+HOG - Harley-Davidson
+HAS - Hasbro
+HMC - Honda Motor
+IRBT - iRobot
+LEN - Lennar
+LKQ - LKQ
+MAT - Mattel
+NKLA - Nikola Corporation
+NIO - NIO
+NVR - NVR
+PHM - PulteGroup
+ROKU - Roku
+SONY - Sony
+SWK - Stanley Black & Decker
+STLA - Stellantis
+TTWO - T2 Interactive
+TTM - Tata Motors
+TPX - Tempur Sealy
+TSLA - Tesla
+TM - Toyota
+TSP - TuSimple
+XPEV - Xpeng

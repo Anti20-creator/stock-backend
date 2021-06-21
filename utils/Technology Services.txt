@@ -1,0 +1,135 @@
+TWOU - 2U
+ACN - Accenture PLC
+ADBE - Adobe
+AFRM - Affirm Holdings
+ABNB - Airbnb Inc
+AKAM - Akamai Technologies
+MDRX - Allscripts Healthcare Solutions
+GOOGL - Alphabet (Class A)
+GOOG - Alphabet (Class C)
+AYX - Alteryx
+PLAN - Anaplan
+ANGI - ANGI Homeservices
+ANSS - Ansys
+APPN - Appian Corporation
+APP - AppLovin Corp
+ASAN - Asana Inc
+TEAM - Atlassian Corporation Plc
+ADSK - Autodesk
+ATHM - Autohome
+ADP - Automatic Data Processing
+AVLR - Avalara
+BIDU - Baidu
+BILI - Bilibili
+BB - BlackBerry
+BOX - Box
+BMBL - Bumble Inc.
+AI - C3.ai Inc
+CDNS - Cadence Design Systems
+CARS - Cars.com
+CERN - Cerner
+CHKP - Check Point Software Technologies
+CSCO - Cisco
+CTXS - Citrix Systems
+CLDR - Cloudera
+NET - Cloudflare
+CTSH - Cognizant Technology Solutions
+COIN - Coinbase
+COMP - Compass
+CSGP - CoStar Group
+COUR - Coursera
+CRWD - CrowdStrike
+DDOG - Datadog
+MSP - Datto Holding Corp
+APPS - Digital Turbine
+DOCU - DocuSign
+DASH - DoorDash Inc
+DKNG - DraftKings Inc
+DBX - Dropbox
+DXC - DXC Technology
+EPAM - EPAM Systems
+EB - Eventbrite
+FB - Facebook
+FDS - FactSet Research Systems
+FSLY - Fastly
+FEYE - FireEye
+FIS - FIS
+FISV - Fiserv
+FVRR - Fiverr
+GDS - GDS Holdings
+GDDY - GoDaddy
+HUBS - HubSpot
+HUYA - HUYA
+IBM - IBM
+INFY - Infosys
+INTU - Intuit
+IQ - iQIYI
+JKHY - Jack Henry & Associates
+FROG - JFrog Ltd
+JMIA - Jumia
+JNPR - Juniper Networks
+LDOS - Leidos Holdings
+LYFT - Lyft
+MTCH - Match Group
+MCFE - McAfee Corp
+MELI - MercadoLibre
+MSFT - Microsoft
+MOMO - Momo
+MDB - MongoDB
+NTES - NetEase
+NICE - NICE Systems
+NLOK - NortonLifeLock
+NTNX - Nutanix
+OKTA - Okta
+ORCL - Oracle
+PD - Pagerduty
+PLTR - Palantir
+PAYX - Paychex
+PYPL - PayPal
+PINS - Pinterest
+PFPT - Proofpoint
+QTWO - Q2 Holdings
+QLYS - Qualys
+QD - Qudian
+RXT - Rackspace Technology
+RNG - RingCentral
+RBLX - Roblox
+CRM - Salesforce
+SE - Sea Limited
+NOW - ServiceNow
+SKIL - Skillsoft Corp
+WORK - Slack
+SMAR - Smartsheet
+SNAP - Snap
+SNOW - Snowflake
+SOGO - Sogou
+SPLK - Splunk
+SPOT - Spotify
+SQ - Square
+SQSP - Squarespace
+SSNC - SS&C Technologies Holdings
+STNE - StoneCo
+SUMO - Sumo Logic Inc
+SNPS - Synopsys
+TME - Tencent Music Entertainment Group
+TW - Tradeweb Markets
+TWLO - Twilio
+TWTR - Twitter
+UBER - Uber
+PATH - UiPath
+U - Unity Software
+VEEV - Veeva Systems
+VRSN - Verisign
+VMW - VMware
+WB - Weibo
+WEX - WEX
+WIT - Wipro
+WIX - Wix.com Ltd
+WDAY - Workday
+YY - YY
+ZEN - Zendesk
+Z - Zillow Group
+ZIP - ZipRecruiter
+ZM - Zoom
+ZS - Zscaler
+ZNGA - Zynga

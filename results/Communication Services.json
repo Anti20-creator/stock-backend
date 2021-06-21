@@ -5,14 +5,18 @@
  },
  {
   "symbol": "CMCSA",
-  "points": 35
+  "points": 33
  },
  {
   "symbol": "DISCA",
-  "points": 41
+  "points": 39
  },
  {
   "symbol": "FOXA",
+  "points": 43
+ },
+ {
+  "symbol": "FB",
   "points": 43
  },
  {
@@ -20,44 +24,40 @@
   "points": 44
  },
  {
+  "symbol": "GOOGL",
+  "points": 45
+ },
+ {
   "symbol": "DISH",
   "points": 45
  },
  {
-  "symbol": "FB",
-  "points": 45
+  "symbol": "GOOG",
+  "points": 48
  },
  {
-  "symbol": "GOOGL",
-  "points": 47
+  "symbol": "CHTR",
+  "points": 49
  },
  {
   "symbol": "NTES",
   "points": 49
  },
  {
-  "symbol": "GOOG",
-  "points": 50
- },
- {
   "symbol": "EA",
   "points": 50
- },
- {
-  "symbol": "CHTR",
-  "points": 51
  },
  {
   "symbol": "WB",
   "points": 63
  },
  {
-  "symbol": "TTWO",
-  "points": 65
+  "symbol": "NFLX",
+  "points": 64
  },
  {
-  "symbol": "NFLX",
-  "points": 66
+  "symbol": "TTWO",
+  "points": 65
  },
  {
   "symbol": "TMUS",
@@ -68,20 +68,16 @@
   "points": 72
  },
  {
-  "symbol": "MTCH",
-  "points": 74
- },
- {
-  "symbol": "ROKU",
-  "points": 81
- },
- {
   "symbol": "ZM",
   "points": 81
  },
  {
-  "symbol": "GRPN",
-  "points": 192
+  "symbol": "MTCH",
+  "points": 171
+ },
+ {
+  "symbol": "ROKU",
+  "points": 178
  },
  {
   "symbol": "ZNGA",
@@ -96,11 +92,15 @@
   "points": 219
  },
  {
+  "symbol": "GRPN",
+  "points": 289
+ },
+ {
   "symbol": "ANGI",
-  "points": 1054
+  "points": 1151
  },
  {
   "symbol": "IQ",
-  "points": 1179
+  "points": 1276
  }
 ]

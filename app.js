@@ -24,9 +24,30 @@ const types = [
     'Utilities'
 ]
 
+const types2 = [
+    'Commercial Services',
+    'Communications',
+    'Consumer Durables',
+    'Consumer Non-Durables',
+    'Consumer Services',
+    'Distribution Services',
+    'Electronic Technology',
+    'Energy Minerals',
+    'Finance',
+    'Health Services',
+    'Health Technology',
+    'Industrial Services',
+    'Non-Energy Minerals',
+    'Process Industries',
+    'Producer Manufacturing',
+    'Retail Trade',
+    'Technology Services',
+    'Transportation',
+    'Utilities'
+]
 
 async function fetchAndGetistory() {
-    await types.map(async type => {
+    await types2.map(async type => {
         let store = new Data()
 
         const symbols  = fs.readFileSync('./utils/' + type + '.txt').toString().split('\n')
@@ -46,7 +67,8 @@ async function fetch(symbols, store) {
         modules: ['summaryDetail', 'defaultKeyStatistics', 'financialData']
     }, (err, data) => {
         Object.keys(data).map(key => {
-            store.push(key, data[key].summaryDetail, data[key].defaultKeyStatistics, data[key].financialData)
+            if(key)
+                store.push(key, data[key].summaryDetail, data[key].defaultKeyStatistics, data[key].financialData)
         })
     })
 }
@@ -54,8 +76,8 @@ async function fetch(symbols, store) {
 async function getHistorical(symbols, store) {
     const result = await Finance.historical({
         symbols: symbols,
-        from: '2021-01-01',
-        to: '2021-06-20',
+        from: '2021-02-01',
+        to: '2021-06-21',
         period: 'd'
     })
 
@@ -77,8 +99,8 @@ app.get('/', async(req, res) => {
     await fetch(symbols, store).then(async () => {
         await store.scoreMetrics(req.query.industry).then(async (scores) => {
             await getHistorical(symbols, store).then((history) => {
-                console.log('History:', history)
-                res.status(200).send({scores, history})
+                const stored = store.stored
+                res.status(200).send({scores, history, stored})
             })
         })
     })
